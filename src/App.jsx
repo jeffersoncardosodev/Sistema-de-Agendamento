@@ -132,7 +132,7 @@ function Navbar() {
 
 function Home() {
   return (
-    <section className="mx-auto max-w-6xl px-4 py-10">
+    <section className="mx-auto max-w-6xl px-4 py-20">
       <div className="grid md:grid-cols-2 gap-10 items-center">
         <div>
           <h1 className="text-3xl font-bold text-gray-900">Agende seu corte com facilidade</h1>
